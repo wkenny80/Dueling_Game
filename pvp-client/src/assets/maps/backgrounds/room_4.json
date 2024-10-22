@@ -1,0 +1,130 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 2, "y": 2, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "1": {
+    "frame": { "x": 968, "y": 2, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "2": {
+    "frame": { "x": 1934, "y": 2, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "3": {
+    "frame": { "x": 2900, "y": 2, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "4": {
+    "frame": { "x": 2, "y": 548, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "5": {
+    "frame": { "x": 968, "y": 548, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "6": {
+    "frame": { "x": 1934, "y": 548, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "7": {
+    "frame": { "x": 2900, "y": 548, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "8": {
+    "frame": { "x": 2, "y": 1094, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "9": {
+    "frame": { "x": 968, "y": 1094, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "10": {
+    "frame": { "x": 1934, "y": 1094, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "11": {
+    "frame": { "x": 2900, "y": 1094, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "12": {
+    "frame": { "x": 2, "y": 1640, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.35-x64",
+  "image": "room_4.png",
+  "format": "RGBA8888",
+  "size": { "w": 3866, "h": 2186 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "room_4-anim", "from": 0, "to": 12, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "BG", "opacity": 255, "blendMode": "normal" },
+   { "name": "Tube1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Beam", "opacity": 255, "blendMode": "normal" },
+   { "name": "Cube1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Cube2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Cube2 Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "Spots", "opacity": 255, "blendMode": "normal" },
+   { "name": "HouseBeam", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
