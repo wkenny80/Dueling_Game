@@ -1,0 +1,72 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 2, "y": 2, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "1": {
+    "frame": { "x": 968, "y": 2, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "2": {
+    "frame": { "x": 1934, "y": 2, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "3": {
+    "frame": { "x": 2, "y": 548, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "4": {
+    "frame": { "x": 968, "y": 548, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   },
+   "5": {
+    "frame": { "x": 1934, "y": 548, "w": 964, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 960, "h": 540 },
+    "sourceSize": { "w": 960, "h": 540 },
+    "duration": 60
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.35-x64",
+  "image": "room_3.png",
+  "format": "RGBA8888",
+  "size": { "w": 2900, "h": 1094 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "room_3-anim", "from": 0, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "BG", "opacity": 255, "blendMode": "normal" },
+   { "name": "Panels", "opacity": 255, "blendMode": "normal" },
+   { "name": "CubeMid", "opacity": 255, "blendMode": "normal" },
+   { "name": "CubeL", "opacity": 255, "blendMode": "normal" },
+   { "name": "CubeR", "opacity": 255, "blendMode": "normal" },
+   { "name": "Circle", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
